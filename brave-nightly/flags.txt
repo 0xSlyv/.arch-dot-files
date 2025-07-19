@@ -1,0 +1,11 @@
+#brave-ntp-refresh-enabled
+#brave-ntp-refresh-enabled
+#containers
+#brave-compact-horizontal-tabs
+#brave-vertical-tab-hide-completely
+#brave-vertical-tab-expand-delay
+#brave-ai-chat-allow-private-ips
+#side-panel-resizing
+#enable-parallel-downloading
+#side-by-side
+#bookmarks-tree-view
