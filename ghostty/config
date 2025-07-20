@@ -1,0 +1,26 @@
+# Font configuration
+font-family = CaskaydiaMono Nerd Font
+font-size = 9
+
+# Window settings
+window-padding-x = 14
+window-padding-y = 14
+window-decoration = true
+background-opacity = 0.98
+
+# Terminal settings
+term = xterm-256color
+
+# Keybindings
+keybind = f11=toggle_fullscreen
+
+# Selection color
+selection-background = 9584b8
+
+# Themes
+theme = UltraDark
+# theme = Atom
+# theme = IR_Black
+# theme = iTerm2 Pastel Dark Background
+# theme = vesper
+# theme = UltraDark
