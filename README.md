@@ -1,6 +1,6 @@
 # Dark AMOLED Dotfiles (⌐■_■)
 
-A sleek collection of dotfiles crafted for Arch Linux, embracing the pure elegance of dark AMOLED aesthetics.
+A sleek collection of dotfiles crafted for Arch Linux, my love letter for AMOLED aesthetics.
 
 ## 🌟 What's Inside
 
@@ -8,15 +8,15 @@ This repository contains carefully curated configurations for a modern Arch Linu
 
 ### Core Components
 
-**Hyprland** - Smooth animations and optimized for productivity.
+**Hyprland** - Smooth animations and soft borders.
 
-**Waybar** - System information. Clean, minimal, and informative without being cluttered.
+**Waybar** - Clean, minimal, and informative without being cluttered + Music control.
 
-**Wofi** - Aesthetically pleasing.
+**Wofi** - Application launcher.
 
-**Ghostty** - Personalized for optimal readability and performance during those intense terminal sessions.
+**Ghostty** - Personalized for optimal readability.
 
-**Brave Nightly** - Privacy-focused browser configured for the ultimate browsing experience.
+**Brave Nightly** - Coonfiguration file for main settings.
 
 ### 🎨 Theme Philosophy
 
@@ -56,7 +56,7 @@ yay -S ghostty-bin brave-nightly-bin
 
 ## License
 
-These dotfiles are shared under the MIT License. Use them, modify them, share them - spread the dark AMOLED love!
+These dotfiles are shared under the MIT License. Use them, modify them, share them!
 
 ---
 
